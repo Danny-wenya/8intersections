@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="SH2.net.xml"/>
+        <route-files value="SH2.rou.xml"/>
+        <!-- Additional input files can be specified here -->
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+    <!-- Additional configuration parameters can be specified here -->
+</configuration>

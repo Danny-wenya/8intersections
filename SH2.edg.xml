@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<edges>
+    <edge id="road_1162_15059" from="inter_1162" to="inter_15059" shape="-876.39,1864.74 -617.11,1740.8" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1164_1172" from="inter_1164" to="inter_1172" shape="894.28,948.44 693.24,1073.04" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1171_1172" from="inter_1171" to="inter_1172" shape="465.17,443.02 673.82,1063.88" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1171_18755" from="inter_1171" to="inter_18755" shape="461.58,413.18 688.36,285.09" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1171_18756" from="inter_1171" to="inter_18756" shape="441.49,446.36 386.82,473.38" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1172_1164" from="inter_1172" to="inter_1164" shape="687.29,1064.03 888.33,939.43" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1172_1171" from="inter_1172" to="inter_1171" shape="663.62,1067.43 454.97,446.56" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1172_20871" from="inter_1172" to="inter_20871" shape="692.23,1092.53 834.37,1438.43" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1172_764" from="inter_1172" to="inter_764" shape="668.8,1097.34 568.62,1155.44" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_15058_767" from="inter_15058" to="inter_767" shape="53.36,2551.78 -165.74,2272.53" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_15059_1162" from="inter_15059" to="inter_1162" shape="-612.78,1749.37 -872.06,1873.31" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_15059_18757" from="inter_15059" to="inter_18757" shape="-618.39,1727.73 -1162.68,1033.69" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_15059_764" from="inter_15059" to="inter_764" shape="-591.45,1720.82 525.32,1176.34" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_15059_767" from="inter_15059" to="inter_767" shape="-585.95,1742.48 -180.55,2249.29" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18755_1171" from="inter_18755" to="inter_1171" shape="693.92,294.36 467.14,422.44" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18756_1171" from="inter_18756" to="inter_1171" shape="380.98,464.29 435.66,437.27" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18756_4446" from="inter_18756" to="inter_4446" shape="348.96,507.16 260.26,561.7" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18756_627" from="inter_18756" to="inter_627" shape="344.87,469.93 226.42,0.54" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18756_764" from="inter_18756" to="inter_764" shape="385.1,501.79 543.11,1147.24" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_18757_15059" from="inter_18757" to="inter_15059" shape="-1155.17,1027.71 -610.88,1721.75" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20870_20871" from="inter_20870" to="inter_20871" shape="684.18,1569.93 825.53,1464.37" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20870_20874" from="inter_20870" to="inter_20874" shape="689.92,1607.51 764.65,1863.9" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20870_764" from="inter_20870" to="inter_764" shape="648.2,1576.21 549.2,1184.37" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20870_767" from="inter_20870" to="inter_767" shape="654.24,1615.42 -161.42,2253.6" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20871_1172" from="inter_20871" to="inter_1172" shape="824.46,1442.72 682.32,1096.81" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20871_20870" from="inter_20871" to="inter_20870" shape="832.32,1472.77 690.97,1578.33" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20871_20872" from="inter_20871" to="inter_20872" shape="847.77,1437.47 1209.93,1148.85" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20871_4424" from="inter_20871" to="inter_4424" shape="855.21,1465.82 973.26,1696.48" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20872_20871" from="inter_20872" to="inter_20871" shape="1216.78,1157.2 854.63,1445.82" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_20874_20870" from="inter_20874" to="inter_20870" shape="748.4,1869.52 673.67,1613.13" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_4424_20871" from="inter_4424" to="inter_20871" shape="963.77,1701.65 845.73,1470.99" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_4446_18756" from="inter_4446" to="inter_18756" shape="254.01,552.89 342.71,498.35" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_627_18756" from="inter_627" to="inter_18756" shape="242.98,-4.12 361.42,465.26" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_764_1172" from="inter_764" to="inter_1172" shape="562.66,1146.43 662.84,1088.34" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_764_15059" from="inter_764" to="inter_15059" shape="529.58,1184.95 -587.2,1729.42" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_764_18756" from="inter_764" to="inter_18756" shape="526.49,1151.66 368.48,506.21" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_764_20870" from="inter_764" to="inter_20870" shape="565.73,1179.61 664.73,1571.45" numLanes="5">
+        <lane index="4" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_766_767" from="inter_766" to="inter_767" shape="-397.19,2432.03 -184.77,2268.21" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_767_15058" from="inter_767" to="inter_15058" shape="-158.3,2266.46 60.8,2545.72" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_767_15059" from="inter_767" to="inter_15059" shape="-187.99,2255.36 -593.39,1748.55" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_767_20870" from="inter_767" to="inter_20870" shape="-167.38,2246.07 648.28,1607.9" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_767_766" from="inter_767" to="inter_766" shape="-178.73,2275.67 -391.14,2439.49" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_1171_0" from="inter_1171" to="inter_0" shape="437.79,415.55 419.29,330.23" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+    <edge id="road_0_1171" from="inter_0" to="inter_1171" shape="429.64,327.13 448.13,412.45" numLanes="3">
+        <lane index="2" speed="16.67" width="4"/>
+    </edge>
+</edges>
